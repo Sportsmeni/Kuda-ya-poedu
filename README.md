@@ -50,4 +50,4 @@ Settings → Pages → Deploy from branch → my main
 https://github.com/Sportsmeni/Kuda-ya-poedu.git
 
 Ссылка на проект gh pages:
-
+https://sportsmeni.github.io/Kuda-ya-poedu/
