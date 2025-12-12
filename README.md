@@ -47,7 +47,7 @@ Settings → Pages → Deploy from branch → my main
 Разработчик 2: Орлов Никита — занимался версткой intro, footer, people, form, адаптивной версткой, подключением шрифтов и всех стилей к проекту.
 
 Ссылка на репозиторий:
-[https://github.com/Sportsmeni/Kuda-ya-poedu.git](https://github.com/Sportsmeni/Kuda-ya-poedu.git)
+https://github.com/Sportsmeni/Kuda-ya-poedu.git
 
 Ссылка на проект gh pages:
 https://sportsmeni.github.io/Kuda-ya-poedu/
