@@ -1,0 +1,36 @@
+.places__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 70px 190px 80px 70px; 
+}
+
+
+@media screen and (max-width:767px) {
+    .places__info_order_sea  {
+        order: 6;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .places__info_order_mountain{
+        order: 4;
+    }
+}
+@media screen and (max-width:767px) {
+    .places__info_order_forest {
+        order: 2;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .places__info {
+        padding: 40px 60px 60px 50px;;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .places__info {
+        padding: 20px 50px 30px 25px;
+    }
+}
