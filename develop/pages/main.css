@@ -1,0 +1,44 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/font.css);
+
+/* Header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/link.css);
+
+/* Cards */
+@import url(../blocks/cards/__item/item.css);
+@import url(../blocks/cards/card.css);
+@import url(../blocks/cards/__title/titile.css);
+@import url(../blocks/cards/__text/text.css);
+/*FOOTER*/
+@import url(../blocks/footer/footer.css);
+
+/* Form */
+@import url(../blocks/form/__button/button.css);
+@import url(../blocks/form/__item/item.css);
+@import url(../blocks/form/form.css);
+
+/* Intro */
+@import url(../blocks/intro/intro.css);
+
+/*page*/
+@import url(../blocks/page/page.css);
+
+
+@import url(../blocks/places/__image/background/place__iamge_mountain.css);
+@import url(../blocks/places/__image/background/place__image_forest.css);
+@import url(../blocks/places/__image/background/place__image_sea.css);
+@import url(../blocks/places/__image/order/places__image_forest.css);
+@import url(../blocks/places/__image/order/places__image_mountain.css);
+@import url(../blocks/places/__image/order/places__image_sea.css);
+@import url(../blocks/places/__image/places_images.css);
+@import url(../blocks/places/__info/info.css);
+@import url(../blocks/places/__info-heading/places__info_heading.css);
+@import url(../blocks/places/__info_paragraph/places__info-paragraph.css);
+@import url(../blocks/places/places.css);
+
+@import url(../blocks/people/title.css);
+@import url(../blocks/people/people.css);
+
+
+
