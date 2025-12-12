@@ -1,0 +1,30 @@
+.people__subtitle {
+  font-family: "Roboto Condensed", Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: rgba(254, 213, 181, 1);
+  margin: 0;
+  padding: 0;
+}
+.people__title {
+  max-width: 396px;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 0;
+  margin: 40px 0 0 0;
+}
+
+@media screen and (max-width: 767px) {
+  .people__title {
+    max-width: calc(100% - 2*20px);
+    text-align: center;
+    font-size: 26px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .people__subtitle {
+    font-size: 18px;
+  }
+}
